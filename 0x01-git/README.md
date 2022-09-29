@@ -1,2 +1,2 @@
-git project it was quite a tough one no doubt 
+My git project it was quite a tough one no doubt 
 
